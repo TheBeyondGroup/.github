@@ -10,6 +10,7 @@ To support our work, we have created several open source packages:
 - [Shopkeeper](https://github.com/TheBeyondGroup/shopkeeper) - a tool to manage Shopify theme settings
 - [Shopify Richtext Renderer](https://github.com/TheBeyondGroup/shopify-rich-text-renderer) - a package to render the data from richtext fields into an HTML string.
 - [Liquid Syntax Highlighting for Zed](https://github.com/TheBeyondGroup/zed-shopify-liquid) - a Zed extension to add syntax highlighting for the [Zed](https://zed.dev) editor.
+- [Shopify Dev MCP Server for Zed](https://github.com/TheBeyondGroup/zed-mcp-server-shopify-dev) - a Zed extension to add the Shopify Dev MCP server to the [Zed](https://zed.dev) editor.
 
 ## Work With Us
 
